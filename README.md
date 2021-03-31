@@ -1,3 +1,9 @@
+<style type=text/css>
+* {
+    font-size: 18px;
+}
+</style>
+
 ```C++
 class Me🏂 {
     🔒 private:
