@@ -24,6 +24,8 @@ class Me🏂 {
 }
 ```
 
-![a](https://github-readme-stats.vercel.app/api/top-langs/?username=arianizadi&layout=compact&theme=radical)
+![a](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&column=4)
 
-![b](https://github-readme-stats.vercel.app/api?username=arianizadi&count_private=true&show_icons=true&theme=radical)
+![b](https://github-readme-stats.vercel.app/api/top-langs/?username=arianizadi&layout=compact&theme=radical)
+
+![c](https://github-readme-stats.vercel.app/api?username=arianizadi&count_private=true&show_icons=true&theme=radical)
