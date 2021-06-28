@@ -1,7 +1,7 @@
 ```C++
 class Me🏂 {
     🔒 private:
-        🏋️‍♂️ int maxBench = 185;
+        🏋️‍♂️ int maxBench = 165;
         💪 int currentWeight = 185;
         📺 string favoriteShow = "Psych";
     🔓 public:
