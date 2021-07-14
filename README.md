@@ -9,8 +9,8 @@ class Me🏂 {
         👻 string discord = "Out[Kast]#9882";
         🐉 int getAge() {return currentYear - 2000;}
         ♻️ string goals[numerical_limits<int>::max()] = {
-            "Create open source projects / write ups",
-            "Contribute to open source projects"
+            "Create Writeups / Tutorials",
+            "Contribute to open source"
         };
         💖 string website = "https://ariandev.com/";
         🐦 string twitter = "https://twitter.com/arianizadi";
