@@ -20,4 +20,4 @@ class Me🏂 {
 
 ![](https://github-readme-stats.vercel.app/api?username=arianizadi&count_private=true&show_icons=true&theme=radical)
 
-![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&column=4)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&column=4) -->
