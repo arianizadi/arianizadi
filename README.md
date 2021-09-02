@@ -18,6 +18,6 @@ class Me🏂 {
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arianizadi&layout=compact&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api?username=arianizadi&count_private=true&show_icons=true&theme=radical)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=arianizadi&count_private=true&show_icons=true&theme=radical) -->
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&column=4) -->
