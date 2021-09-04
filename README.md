@@ -1,4 +1,4 @@
-![](https://ariandev.com/Github_Assets/GithubCounter/counter.php?page=profile)
+![](https://ariandev.com/Github_Assets/GithubCounter/counter.php?page=Profile)
 
 ```C++
 class Me🏂 {
