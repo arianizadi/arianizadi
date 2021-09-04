@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=arianizadi&style=flat-square&color=orange)
+![](https://ariandev.com/Github_Assets/GithubCounter/counter.php?page=profile)
 
 ```C++
 class Me🏂 {
