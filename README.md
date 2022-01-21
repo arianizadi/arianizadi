@@ -13,7 +13,7 @@ class Me🏂 {
             "Contribute to open source"
         };
         💖 string website = "https://ariandev.com/";
-        🐦 string twitter = "https://twitter.com/arianizadi";
+        🐦 string twitter = "https://twitter.com/arianizadi/";
         🤳 string instagram = "https://www.instagram.com/arianizadi2/";
 }
 ```
