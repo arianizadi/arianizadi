@@ -6,7 +6,6 @@ class Me🏂 {
         📺 string favoriteShow = "Psych";
     🔓 public:
         👋 string name = "Arian Izadi";
-        👻 string discord = "Out[Kast]#9882";
         🐉 int getAge() {return currentYear - 2000;}
         ♻️ string goals[numerical_limits<int>::max()] = {
             "Create Writeups / Tutorials",
